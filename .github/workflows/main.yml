@@ -23,4 +23,4 @@ jobs:
         with:
           dockerfile: ./Dockerfile
           push: true
-          tags: refferency/la5:latest
+          tags: refferency/lab5:latest
